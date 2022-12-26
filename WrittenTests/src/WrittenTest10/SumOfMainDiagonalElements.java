@@ -2,7 +2,7 @@ package WrittenTest10;
 //1.WAJP2 find sum of main diagonal elements of a matrix.
 public class SumOfMainDiagonalElements 
 {
-public static void main(String[] args)
+public static void main(String args[])
 {
 	int sum=0;
 	int a[][]= {{1,2,3},{4,5,6},{7,8,9}};
